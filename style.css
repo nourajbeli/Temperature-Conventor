@@ -15,8 +15,8 @@ body{
 
     .box {
        margin:auto;
-      width=60%;
-      min-width=300px;
+      width:60%;
+      min-width:300px;
      align-items:center;
      background-color:powderblue ;
       border:2px solid;
